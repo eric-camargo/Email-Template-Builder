@@ -1,0 +1,13 @@
+table {
+  .text {
+    padding: 24px;
+
+    p {
+      font-size: 16px;
+    }
+
+    p + p {
+      margin-top: 12px;
+    }
+  }
+}
